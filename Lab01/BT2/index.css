@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+table{
+    
+
+}
+
+table,th,td{
+    border: 1px solid black;
+    width: 550px;
+}
+
+p{
+    text-align: center;
+}
+
+th{
+    height: 55px;
+}
+
+tr{
+    align-items: center;
+}
