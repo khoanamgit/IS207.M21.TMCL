@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bai3{
+   background-color: aquamarine;
+   max-width: 500px;
+}
+.title{
+    padding-bottom: 16px;
+    margin-left: 140px;
+}
+
+label{
+    padding-right: 32px;
+}
+
+table{
+    border-spacing: 20px;
+}
+
