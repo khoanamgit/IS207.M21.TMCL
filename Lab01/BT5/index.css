@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    margin-left: 110px;
+    padding-bottom: 16px;
+    color: #8A2BE2;
+}
+
+hr{
+    background-color:#0000FF;
+}
+table{
+    
+}
+
+label{
+    margin-right: 32px;
+    margin-left: 15px;
+}
+
+input[type=button]{
+    border-radius: 20px;
+    padding: 2px 8px;
+    margin-top: 5px;
+    box-shadow: none;
+}
+
+body{
+    max-width: 450px;
+}
+
+input[type=text]{
+    border: 2px solid #ccc;
+    color: #ccc;
+}
+
